@@ -32,6 +32,9 @@ bool Production::inputCheck(vector<int> numbers) {
 		}
 	}
 
-
 	return true;
+}
+
+void Production::render() {
+
 }
